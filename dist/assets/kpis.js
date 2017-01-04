@@ -2229,7 +2229,7 @@ catch(err) {
 /* jshint ignore:start */
 
 if (!runningTests) {
-  require("kpis/app")["default"].create({"name":"kpis","version":"0.0.0+870964c0"});
+  require("kpis/app")["default"].create({"name":"kpis","version":"0.0.0+6940749b"});
 }
 
 /* jshint ignore:end */
