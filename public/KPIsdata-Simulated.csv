@@ -1,0 +1,591 @@
+Date,Product,Region Name,Country,Country Name,Monthly Active Users,Daily Active Users,Subscribers,Total Content Hours
+3/1/2016,paid,Europe,AD,Andorra,1124,791,1861,1066
+3/1/2016,free,Europe,AD,Andorra,3752,1070,0,795
+3/1/2016,paid,Latin America,AR,Argentina,1939,1326,2761,1723
+3/1/2016,free,Latin America,AR,Argentina,6953,1435,0,1038
+3/1/2016,paid,Australia - New Zealand,AU,Australia,11567,4776,13831,6736
+3/1/2016,free,Australia - New Zealand,AU,Australia,28095,9055,0,7095
+3/1/2016,paid,Europe,AT,Austria,3189,1359,3169,1332
+3/1/2016,free,Europe,AT,Austria,7440,1810,0,1837
+3/1/2016,paid,Europe,BE,Belgium,5743,3823,6615,3370
+3/1/2016,free,Europe,BE,Belgium,9694,2792,0,3245
+3/1/2016,paid,Latin America,BO,Bolivia,4514,1433,4613,2533
+3/1/2016,free,Latin America,BO,Bolivia,10609,3180,0,2080
+3/1/2016,paid,Latin America,BR,Brazil,18634,9371,19647,11132
+3/1/2016,free,Latin America,BR,Brazil,38571,10276,0,8515
+3/1/2016,paid,Europe,BG,Bulgaria,4653,1576,2702,1533
+3/1/2016,free,Europe,BG,Bulgaria,6739,1126,0,1169
+3/1/2016,paid,North America,CA,Canada,7258,3966,6699,3715
+3/1/2016,free,North America,CA,Canada,14895,2733,0,2984
+3/1/2016,paid,Latin America,CL,Chile,2067,1831,2848,1393
+3/1/2016,free,Latin America,CL,Chile,7367,1017,0,1455
+3/1/2016,paid,Latin America,CO,Colombia,3995,1577,3180,1838
+3/1/2016,free,Latin America,CO,Colombia,7459,1603,0,1342
+3/1/2016,paid,Latin America,CR,Costa Rica,2096,1559,2742,1453
+3/1/2016,free,Latin America,CR,Costa Rica,5039,1183,0,1289
+3/1/2016,paid,Europe,CY,Cyprus,1805,1767,2947,1804
+3/1/2016,free,Europe,CY,Cyprus,6249,1180,0,1143
+3/1/2016,paid,Europe,CZ,Czech Republic,2430,811,1980,996
+3/1/2016,free,Europe,CZ,Czech Republic,4354,1169,0,984
+3/1/2016,paid,Europe,DK,Denmark,2515,777,2114,995
+3/1/2016,free,Europe,DK,Denmark,5980,1337,0,1119
+3/1/2016,paid,Latin America,DO,Dominican Republic,3297,819,2229,1350
+3/1/2016,free,Latin America,DO,Dominican Republic,6024,1410,0,879
+3/1/2016,paid,Latin America,EC,Ecuador,2408,2513,4184,1715
+3/1/2016,free,Latin America,EC,Ecuador,8577,1671,0,2469
+3/1/2016,paid,Latin America,SV,El Salvador,4280,1883,3893,2685
+3/1/2016,free,Latin America,SV,El Salvador,8725,2010,0,1208
+3/1/2016,paid,Europe,EE,Estonia,2147,1252,2728,1485
+3/1/2016,free,Europe,EE,Estonia,5795,1476,0,1243
+3/1/2016,paid,Europe,FI,Finland,4069,2100,3467,1636
+3/1/2016,free,Europe,FI,Finland,7423,1367,0,1831
+3/1/2016,paid,Europe,FR,France,23596,7034,13995,8099
+3/1/2016,free,Europe,FR,France,29486,6961,0,5896
+3/1/2016,paid,Europe,DE,Germany,41056,17110,35720,14398
+3/1/2016,free,Europe,DE,Germany,66069,18610,0,21322
+3/1/2016,paid,Europe,GR,Greece,4097,1659,2848,1916
+3/1/2016,free,Europe,GR,Greece,6050,1189,0,932
+3/1/2016,paid,Latin America,GT,Guatemala,2046,1163,3077,1603
+3/1/2016,free,Latin America,GT,Guatemala,8090,1914,0,1474
+3/1/2016,paid,Latin America,HN,Honduras,3999,2964,5017,3296
+3/1/2016,free,Latin America,HN,Honduras,7417,2053,0,1721
+3/1/2016,paid,Southeast Asia,HK,Hong Kong,2033,810,1744,1109
+3/1/2016,free,Southeast Asia,HK,Hong Kong,5344,934,0,635
+3/1/2016,paid,Europe,HU,Hungary,1222,1242,2272,1219
+3/1/2016,free,Europe,HU,Hungary,5519,1030,0,1053
+3/1/2016,paid,Europe,IS,Iceland,4646,4468,7853,5060
+3/1/2016,free,Europe,IS,Iceland,22906,3385,0,2793
+3/1/2016,paid,Southeast Asia,ID,Indonesia,2990,1823,3192,2026
+3/1/2016,free,Southeast Asia,ID,Indonesia,9906,1369,0,1166
+3/1/2016,paid,Europe,IE,Ireland,3464,2353,3590,1996
+3/1/2016,free,Europe,IE,Ireland,4975,1237,0,1594
+3/1/2016,paid,Europe,IT,Italy,1933,1222,3256,1816
+3/1/2016,free,Europe,IT,Italy,7398,2034,0,1440
+3/1/2016,paid,Europe,LV,Latvia,1460,744,1522,979
+3/1/2016,free,Europe,LV,Latvia,5690,778,0,543
+3/1/2016,paid,Europe,LI,Liechtenstein,4904,2190,3760,2035
+3/1/2016,free,Europe,LI,Liechtenstein,7479,1570,0,1725
+3/1/2016,paid,Europe,LT,Lithuania,3027,1213,2307,1114
+3/1/2016,free,Europe,LT,Lithuania,5854,1094,0,1193
+3/1/2016,paid,Europe,LU,Luxembourg,3393,852,2866,1920
+3/1/2016,free,Europe,LU,Luxembourg,5206,2014,0,946
+3/1/2016,paid,Southeast Asia,MY,Malaysia,2980,1369,3071,1771
+3/1/2016,free,Southeast Asia,MY,Malaysia,7944,1702,0,1300
+3/1/2016,paid,Europe,MT,Malta,3407,1691,4609,2732
+3/1/2016,free,Europe,MT,Malta,8398,2918,0,1877
+3/1/2016,paid,Latin America,MX,Mexico,25481,10511,19515,11962
+3/1/2016,free,Latin America,MX,Mexico,39738,9004,0,7553
+3/1/2016,paid,Europe,MC,Monaco,1884,1322,1843,1054
+3/1/2016,free,Europe,MC,Monaco,5378,521,0,789
+3/1/2016,paid,Europe,NL,Netherlands,3916,2996,6335,3990
+3/1/2016,free,Europe,NL,Netherlands,11947,3339,0,2345
+3/1/2016,paid,Australia - New Zealand,NZ,New Zealand,10035,1991,7397,3616
+3/1/2016,free,Australia - New Zealand,NZ,New Zealand,13372,5406,0,3781
+3/1/2016,paid,Latin America,NI,Nicaragua,3888,1708,3081,1936
+3/1/2016,free,Latin America,NI,Nicaragua,6647,1373,0,1145
+3/1/2016,paid,Europe,NO,Norway,15393,14284,20776,12699
+3/1/2016,free,Europe,NO,Norway,35330,6492,0,8077
+3/1/2016,paid,Latin America,PA,Panama,3956,1922,4018,2128
+3/1/2016,free,Latin America,PA,Panama,6435,2096,0,1890
+3/1/2016,paid,Latin America,PY,Paraguay,3239,2278,4205,2556
+3/1/2016,free,Latin America,PY,Paraguay,6820,1927,0,1649
+3/1/2016,paid,Latin America,PE,Peru,2016,1161,1763,1013
+3/1/2016,free,Latin America,PE,Peru,3948,602,0,750
+3/1/2016,paid,Southeast Asia,PH,Philippines,8204,3629,7362,4340
+3/1/2016,free,Southeast Asia,PH,Philippines,13712,3733,0,3022
+3/1/2016,paid,Europe,PL,Poland,6977,2868,6320,3925
+3/1/2016,free,Europe,PL,Poland,15884,3452,0,2395
+3/1/2016,paid,Europe,PT,Portugal,5857,4983,8655,4728
+3/1/2016,free,Europe,PT,Portugal,21997,3672,0,3927
+3/1/2016,paid,Southeast Asia,SG,Singapore,9358,2617,6331,3998
+3/1/2016,free,Southeast Asia,SG,Singapore,13150,3714,0,2333
+3/1/2016,paid,Europe,SK,Slovakia,3694,685,1663,1155
+3/1/2016,free,Europe,SK,Slovakia,6642,978,0,508
+3/1/2016,paid,Europe,ES,Spain,15758,3110,9828,6179
+3/1/2016,free,Europe,ES,Spain,27568,6718,0,3649
+3/1/2016,paid,Europe,SE,Sweden,26389,11014,16936,8232
+3/1/2016,free,Europe,SE,Sweden,33603,5922,0,8704
+3/1/2016,paid,Europe,CH,Switzerland,12489,5775,15011,9298
+3/1/2016,free,Europe,CH,Switzerland,34531,9236,0,5713
+3/1/2016,paid,Southeast Asia,TW,Taiwan,9048,4766,6597,3941
+3/1/2016,free,Southeast Asia,TW,Taiwan,21106,1831,0,2656
+3/1/2016,paid,Europe,TR,Turkey,14453,7745,16799,8861
+3/1/2016,free,Europe,TR,Turkey,42479,9054,0,7938
+3/1/2016,paid,Europe,GB,United Kingdom,31501,17277,39013,24546
+3/1/2016,free,Europe,GB,United Kingdom,63258,21736,0,14467
+3/1/2016,paid,North America,US,United States,122966,97196,196062,107856
+3/1/2016,free,North America,US,United States,431678,98866,0,88206
+3/1/2016,paid,Latin America,UY,Uruguay,3773,1745,3683,2438
+3/1/2016,free,Latin America,UY,Uruguay,5648,1938,0,1245
+4/1/2016,paid,Europe,AD,Andorra,1183,756,1806,999
+4/1/2016,free,Europe,AD,Andorra,3452,1037,0,739
+4/1/2016,paid,Latin America,AR,Argentina,2031,1311,2717,1735
+4/1/2016,free,Latin America,AR,Argentina,6965,1522,0,1002
+4/1/2016,paid,Australia - New Zealand,AU,Australia,11785,4785,14125,6839
+4/1/2016,free,Australia - New Zealand,AU,Australia,27018,9217,0,7210
+4/1/2016,paid,Europe,AT,Austria,3047,1399,2964,1348
+4/1/2016,free,Europe,AT,Austria,7835,1781,0,1762
+4/1/2016,paid,Europe,BE,Belgium,5549,4085,6129,3251
+4/1/2016,free,Europe,BE,Belgium,10544,2858,0,3423
+4/1/2016,paid,Latin America,BO,Bolivia,4764,1517,5069,2722
+4/1/2016,free,Latin America,BO,Bolivia,10938,3487,0,2266
+4/1/2016,paid,Latin America,BR,Brazil,19869,10426,21410,10828
+4/1/2016,free,Latin America,BR,Brazil,42842,10090,0,9106
+4/1/2016,paid,Europe,BG,Bulgaria,4555,1533,2797,1422
+4/1/2016,free,Europe,BG,Bulgaria,6426,1158,0,1175
+4/1/2016,paid,North America,CA,Canada,7086,3963,6978,3830
+4/1/2016,free,North America,CA,Canada,15097,2680,0,3104
+4/1/2016,paid,Latin America,CL,Chile,2277,1913,2948,1390
+4/1/2016,free,Latin America,CL,Chile,7872,993,0,1557
+4/1/2016,paid,Latin America,CO,Colombia,3985,1680,3270,2018
+4/1/2016,free,Latin America,CO,Colombia,8100,1621,0,1443
+4/1/2016,paid,Latin America,CR,Costa Rica,2266,1574,3023,1443
+4/1/2016,free,Latin America,CR,Costa Rica,5659,1168,0,1225
+4/1/2016,paid,Europe,CY,Cyprus,1740,1848,2982,1918
+4/1/2016,free,Europe,CY,Cyprus,6204,1180,0,1117
+4/1/2016,paid,Europe,CZ,Czech Republic,2472,782,1970,972
+4/1/2016,free,Europe,CZ,Czech Republic,4244,1209,0,980
+4/1/2016,paid,Europe,DK,Denmark,2443,789,2084,1019
+4/1/2016,free,Europe,DK,Denmark,6152,1359,0,1068
+4/1/2016,paid,Latin America,DO,Dominican Republic,3403,856,2305,1343
+4/1/2016,free,Latin America,DO,Dominican Republic,6402,1428,0,896
+4/1/2016,paid,Latin America,EC,Ecuador,2388,2601,4561,1750
+4/1/2016,free,Latin America,EC,Ecuador,8738,1709,0,2552
+4/1/2016,paid,Latin America,SV,El Salvador,4425,1958,3796,2693
+4/1/2016,free,Latin America,SV,El Salvador,9214,2157,0,1294
+4/1/2016,paid,Europe,EE,Estonia,2182,1215,2653,1377
+4/1/2016,free,Europe,EE,Estonia,5536,1382,0,1321
+4/1/2016,paid,Europe,FI,Finland,3861,2170,3479,1602
+4/1/2016,free,Europe,FI,Finland,6731,1295,0,1821
+4/1/2016,paid,Europe,FR,France,23555,7047,13736,7565
+4/1/2016,free,Europe,FR,France,28422,6878,0,5881
+4/1/2016,paid,Europe,DE,Germany,40632,16181,36134,13918
+4/1/2016,free,Europe,DE,Germany,67287,17815,0,19708
+4/1/2016,paid,Europe,GR,Greece,4105,1766,2751,1771
+4/1/2016,free,Europe,GR,Greece,6493,1259,0,958
+4/1/2016,paid,Latin America,GT,Guatemala,2037,1212,3116,1779
+4/1/2016,free,Latin America,GT,Guatemala,8736,2078,0,1538
+4/1/2016,paid,Latin America,HN,Honduras,4151,2942,5246,3416
+4/1/2016,free,Latin America,HN,Honduras,7485,2109,0,1878
+4/1/2016,paid,Southeast Asia,HK,Hong Kong,2234,821,1709,1074
+4/1/2016,free,Southeast Asia,HK,Hong Kong,5159,951,0,681
+4/1/2016,paid,Europe,HU,Hungary,1222,1245,2433,1198
+4/1/2016,free,Europe,HU,Hungary,5652,990,0,1120
+4/1/2016,paid,Europe,IS,Iceland,4566,4150,7685,5197
+4/1/2016,free,Europe,IS,Iceland,22754,3196,0,2696
+4/1/2016,paid,Southeast Asia,ID,Indonesia,3226,1976,3148,2173
+4/1/2016,free,Southeast Asia,ID,Indonesia,10047,1495,0,1212
+4/1/2016,paid,Europe,IE,Ireland,3516,2370,3658,1890
+4/1/2016,free,Europe,IE,Ireland,4509,1200,0,1508
+4/1/2016,paid,Europe,IT,Italy,1997,1226,3357,1665
+4/1/2016,free,Europe,IT,Italy,7600,2131,0,1522
+4/1/2016,paid,Europe,LV,Latvia,1460,744,1610,951
+4/1/2016,free,Europe,LV,Latvia,5804,771,0,520
+4/1/2016,paid,Europe,LI,Liechtenstein,4822,2186,3731,2118
+4/1/2016,free,Europe,LI,Liechtenstein,7751,1622,0,1751
+4/1/2016,paid,Europe,LT,Lithuania,3098,1179,2277,1102
+4/1/2016,free,Europe,LT,Lithuania,5962,1123,0,1202
+4/1/2016,paid,Europe,LU,Luxembourg,3669,848,2952,1972
+4/1/2016,free,Europe,LU,Luxembourg,5438,1931,0,1021
+4/1/2016,paid,Southeast Asia,MY,Malaysia,3177,1473,3166,1813
+4/1/2016,free,Southeast Asia,MY,Malaysia,7570,1897,0,1390
+4/1/2016,paid,Europe,MT,Malta,3252,1596,4852,2570
+4/1/2016,free,Europe,MT,Malta,8482,2949,0,1858
+4/1/2016,paid,Latin America,MX,Mexico,26880,10345,19590,12270
+4/1/2016,free,Latin America,MX,Mexico,38641,9470,0,8053
+4/1/2016,paid,Europe,MC,Monaco,1886,1346,1694,977
+4/1/2016,free,Europe,MC,Monaco,5297,538,0,804
+4/1/2016,paid,Europe,NL,Netherlands,3718,3153,6238,3980
+4/1/2016,free,Europe,NL,Netherlands,12430,3397,0,2214
+4/1/2016,paid,Australia - New Zealand,NZ,New Zealand,9775,2011,7791,3489
+4/1/2016,free,Australia - New Zealand,NZ,New Zealand,12742,5344,0,4065
+4/1/2016,paid,Latin America,NI,Nicaragua,4258,1891,3157,2073
+4/1/2016,free,Latin America,NI,Nicaragua,7112,1350,0,1161
+4/1/2016,paid,Europe,NO,Norway,15554,14165,20051,12969
+4/1/2016,free,Europe,NO,Norway,34933,6341,0,8315
+4/1/2016,paid,Latin America,PA,Panama,4257,1848,4351,2186
+4/1/2016,free,Latin America,PA,Panama,6339,2225,0,1850
+4/1/2016,paid,Latin America,PY,Paraguay,3301,2339,4542,2709
+4/1/2016,free,Latin America,PY,Paraguay,6588,1912,0,1623
+4/1/2016,paid,Latin America,PE,Peru,1971,1210,1890,1009
+4/1/2016,free,Latin America,PE,Peru,4357,631,0,714
+4/1/2016,paid,Southeast Asia,PH,Philippines,7848,3951,7228,4391
+4/1/2016,free,Southeast Asia,PH,Philippines,14745,3859,0,2965
+4/1/2016,paid,Europe,PL,Poland,6882,3043,6337,4070
+4/1/2016,free,Europe,PL,Poland,14551,3628,0,2321
+4/1/2016,paid,Europe,PT,Portugal,6124,4667,8914,4903
+4/1/2016,free,Europe,PT,Portugal,22691,3946,0,4152
+4/1/2016,paid,Southeast Asia,SG,Singapore,9091,2620,6550,4271
+4/1/2016,free,Southeast Asia,SG,Singapore,13546,3519,0,2432
+4/1/2016,paid,Europe,SK,Slovakia,3740,703,1754,1056
+4/1/2016,free,Europe,SK,Slovakia,6995,988,0,473
+4/1/2016,paid,Europe,ES,Spain,15308,2935,10445,6684
+4/1/2016,free,Europe,ES,Spain,29829,6604,0,3423
+4/1/2016,paid,Europe,SE,Sweden,25934,10310,16005,8084
+4/1/2016,free,Europe,SE,Sweden,33003,5854,0,8413
+4/1/2016,paid,Europe,CH,Switzerland,11926,5617,15226,9084
+4/1/2016,free,Europe,CH,Switzerland,35276,8824,0,5557
+4/1/2016,paid,Southeast Asia,TW,Taiwan,8967,5108,7088,4191
+4/1/2016,free,Southeast Asia,TW,Taiwan,20953,1863,0,2867
+4/1/2016,paid,Europe,TR,Turkey,14424,7950,17213,9070
+4/1/2016,free,Europe,TR,Turkey,40004,9189,0,7893
+4/1/2016,paid,Europe,GB,United Kingdom,32345,16691,37843,23412
+4/1/2016,free,Europe,GB,United Kingdom,63854,20029,0,15126
+4/1/2016,paid,North America,US,United States,122481,95018,196317,106315
+4/1/2016,free,North America,US,United States,422999,101225,0,96605
+4/1/2016,paid,Latin America,UY,Uruguay,3785,1882,3699,2526
+4/1/2016,free,Latin America,UY,Uruguay,5380,1816,0,1264
+5/1/2016,paid,Europe,AD,Andorra,1242,766,1930,1065
+5/1/2016,free,Europe,AD,Andorra,3504,973,0,722
+5/1/2016,paid,Latin America,AR,Argentina,2034,1271,2857,1761
+5/1/2016,free,Latin America,AR,Argentina,6785,1674,0,1025
+5/1/2016,paid,Australia - New Zealand,AU,Australia,11108,4753,14078,6890
+5/1/2016,free,Australia - New Zealand,AU,Australia,28328,9125,0,7890
+5/1/2016,paid,Europe,AT,Austria,3076,1435,2910,1333
+5/1/2016,free,Europe,AT,Austria,7568,1649,0,1705
+5/1/2016,paid,Europe,BE,Belgium,5580,4175,5818,3269
+5/1/2016,free,Europe,BE,Belgium,10641,2934,0,3529
+5/1/2016,paid,Latin America,BO,Bolivia,5357,1547,5314,2921
+5/1/2016,free,Latin America,BO,Bolivia,10938,3801,0,2401
+5/1/2016,paid,Latin America,BR,Brazil,20222,11348,22233,10905
+5/1/2016,free,Latin America,BR,Brazil,41077,10060,0,9188
+5/1/2016,paid,Europe,BG,Bulgaria,4667,1453,2612,1361
+5/1/2016,free,Europe,BG,Bulgaria,6783,1089,0,1128
+5/1/2016,paid,North America,CA,Canada,7014,4017,7119,4013
+5/1/2016,free,North America,CA,Canada,15119,2784,0,2995
+5/1/2016,paid,Latin America,CL,Chile,2276,1975,2971,1351
+5/1/2016,free,Latin America,CL,Chile,7709,1045,0,1654
+5/1/2016,paid,Latin America,CO,Colombia,4137,1809,3429,2145
+5/1/2016,free,Latin America,CO,Colombia,8852,1651,0,1535
+5/1/2016,paid,Latin America,CR,Costa Rica,2206,1628,3236,1526
+5/1/2016,free,Latin America,CR,Costa Rica,6020,1248,0,1339
+5/1/2016,paid,Europe,CY,Cyprus,1631,1912,2933,2005
+5/1/2016,free,Europe,CY,Cyprus,6467,1274,0,1164
+5/1/2016,paid,Europe,CZ,Czech Republic,2392,823,1968,950
+5/1/2016,free,Europe,CZ,Czech Republic,4205,1279,0,933
+5/1/2016,paid,Europe,DK,Denmark,2380,834,2051,978
+5/1/2016,free,Europe,DK,Denmark,6351,1399,0,1027
+5/1/2016,paid,Latin America,DO,Dominican Republic,3395,917,2371,1439
+5/1/2016,free,Latin America,DO,Dominican Republic,6852,1533,0,889
+5/1/2016,paid,Latin America,EC,Ecuador,2565,2535,4533,1859
+5/1/2016,free,Latin America,EC,Ecuador,8785,1730,0,2825
+5/1/2016,paid,Latin America,SV,El Salvador,4539,2032,4099,2774
+5/1/2016,free,Latin America,SV,El Salvador,9718,2358,0,1371
+5/1/2016,paid,Europe,EE,Estonia,2241,1262,2793,1349
+5/1/2016,free,Europe,EE,Estonia,5549,1307,0,1280
+5/1/2016,paid,Europe,FI,Finland,3882,2067,3556,1722
+5/1/2016,free,Europe,FI,Finland,7105,1261,0,1812
+5/1/2016,paid,Europe,FR,France,23736,7149,13896,7414
+5/1/2016,free,Europe,FR,France,28970,6560,0,5551
+5/1/2016,paid,Europe,DE,Germany,38520,16266,32899,12962
+5/1/2016,free,Europe,DE,Germany,64771,18555,0,20693
+5/1/2016,paid,Europe,GR,Greece,4031,1852,2724,1852
+5/1/2016,free,Europe,GR,Greece,6410,1238,0,925
+5/1/2016,paid,Latin America,GT,Guatemala,2196,1268,3424,1827
+5/1/2016,free,Latin America,GT,Guatemala,9402,2059,0,1549
+5/1/2016,paid,Latin America,HN,Honduras,4485,2843,5208,3555
+5/1/2016,free,Latin America,HN,Honduras,7486,2176,0,1936
+5/1/2016,paid,Southeast Asia,HK,Hong Kong,2258,863,1765,1024
+5/1/2016,free,Southeast Asia,HK,Hong Kong,5550,994,0,697
+5/1/2016,paid,Europe,HU,Hungary,1113,1246,2362,1281
+5/1/2016,free,Europe,HU,Hungary,5904,969,0,1103
+5/1/2016,paid,Europe,IS,Iceland,4616,4122,7325,5575
+5/1/2016,free,Europe,IS,Iceland,22353,3272,0,2778
+5/1/2016,paid,Southeast Asia,ID,Indonesia,3372,2025,3139,2391
+5/1/2016,free,Southeast Asia,ID,Indonesia,10332,1654,0,1224
+5/1/2016,paid,Europe,IE,Ireland,3732,2217,3673,1998
+5/1/2016,free,Europe,IE,Ireland,4926,1193,0,1385
+5/1/2016,paid,Europe,IT,Italy,1987,1177,3254,1603
+5/1/2016,free,Europe,IT,Italy,7326,2028,0,1508
+5/1/2016,paid,Europe,LV,Latvia,1500,749,1575,957
+5/1/2016,free,Europe,LV,Latvia,5562,760,0,535
+5/1/2016,paid,Europe,LI,Liechtenstein,4790,2352,3661,2232
+5/1/2016,free,Europe,LI,Liechtenstein,8040,1481,0,1744
+5/1/2016,paid,Europe,LT,Lithuania,3356,1173,2262,1153
+5/1/2016,free,Europe,LT,Lithuania,6065,1182,0,1161
+5/1/2016,paid,Europe,LU,Luxembourg,3747,801,3214,1845
+5/1/2016,free,Europe,LU,Luxembourg,5641,1908,0,1030
+5/1/2016,paid,Southeast Asia,MY,Malaysia,3250,1468,3037,1853
+5/1/2016,free,Southeast Asia,MY,Malaysia,7697,1891,0,1507
+5/1/2016,paid,Europe,MT,Malta,3350,1605,5131,2529
+5/1/2016,free,Europe,MT,Malta,8156,2791,0,1781
+5/1/2016,paid,Latin America,MX,Mexico,27120,10560,20956,12138
+5/1/2016,free,Latin America,MX,Mexico,38595,9853,0,8790
+5/1/2016,paid,Europe,MC,Monaco,1937,1316,1781,1003
+5/1/2016,free,Europe,MC,Monaco,5050,564,0,801
+5/1/2016,paid,Europe,NL,Netherlands,3837,3333,6264,4183
+5/1/2016,free,Europe,NL,Netherlands,12523,3359,0,2263
+5/1/2016,paid,Australia - New Zealand,NZ,New Zealand,9453,1954,7341,3585
+5/1/2016,free,Australia - New Zealand,NZ,New Zealand,12593,5436,0,4104
+5/1/2016,paid,Latin America,NI,Nicaragua,4587,1851,3370,2167
+5/1/2016,free,Latin America,NI,Nicaragua,7168,1486,0,1142
+5/1/2016,paid,Europe,NO,Norway,16331,14834,19940,12038
+5/1/2016,free,Europe,NO,Norway,36786,6438,0,8257
+5/1/2016,paid,Latin America,PA,Panama,4757,1839,4158,2262
+5/1/2016,free,Latin America,PA,Panama,6724,2150,0,1988
+5/1/2016,paid,Latin America,PY,Paraguay,3338,2435,4867,2691
+5/1/2016,free,Latin America,PY,Paraguay,6693,1920,0,1657
+5/1/2016,paid,Latin America,PE,Peru,1919,1255,1953,1002
+5/1/2016,free,Latin America,PE,Peru,4798,676,0,699
+5/1/2016,paid,Southeast Asia,PH,Philippines,8392,3930,7681,4223
+5/1/2016,free,Southeast Asia,PH,Philippines,15879,4009,0,3060
+5/1/2016,paid,Europe,PL,Poland,6773,3174,6276,4019
+5/1/2016,free,Europe,PL,Poland,14962,3793,0,2311
+5/1/2016,paid,Europe,PT,Portugal,5868,4571,9306,5136
+5/1/2016,free,Europe,PT,Portugal,24217,4136,0,4006
+5/1/2016,paid,Southeast Asia,SG,Singapore,8909,2718,6199,4315
+5/1/2016,free,Southeast Asia,SG,Singapore,13876,3432,0,2428
+5/1/2016,paid,Europe,SK,Slovakia,3667,724,1771,1111
+5/1/2016,free,Europe,SK,Slovakia,6718,1005,0,474
+5/1/2016,paid,Europe,ES,Spain,15245,2976,10947,6579
+5/1/2016,free,Europe,ES,Spain,30662,6451,0,3548
+5/1/2016,paid,Europe,SE,Sweden,26904,10847,15702,7730
+5/1/2016,free,Europe,SE,Sweden,33065,5737,0,8865
+5/1/2016,paid,Europe,CH,Switzerland,12464,6089,14862,9225
+5/1/2016,free,Europe,CH,Switzerland,38691,8614,0,5181
+5/1/2016,paid,Southeast Asia,TW,Taiwan,9836,5022,6871,4089
+5/1/2016,free,Southeast Asia,TW,Taiwan,22843,1872,0,3043
+5/1/2016,paid,Europe,TR,Turkey,14593,7439,16525,9135
+5/1/2016,free,Europe,TR,Turkey,36769,8807,0,7404
+5/1/2016,paid,Europe,GB,United Kingdom,29890,16688,37602,24616
+5/1/2016,free,Europe,GB,United Kingdom,66066,21484,0,16110
+5/1/2016,paid,North America,US,United States,127254,96835,195993,109294
+5/1/2016,free,North America,US,United States,425595,102191,0,100950
+5/1/2016,paid,Latin America,UY,Uruguay,4100,1802,3706,2427
+5/1/2016,free,Latin America,UY,Uruguay,5091,1895,0,1260
+6/1/2016,paid,Europe,AD,Andorra,1173,825,1992,1048
+6/1/2016,free,Europe,AD,Andorra,3744,953,0,724
+6/1/2016,paid,Latin America,AR,Argentina,2118,1258,3056,1799
+6/1/2016,free,Latin America,AR,Argentina,7123,1771,0,1058
+6/1/2016,paid,Australia - New Zealand,AU,Australia,10659,4669,13635,7139
+6/1/2016,free,Australia - New Zealand,AU,Australia,28713,9856,0,7966
+6/1/2016,paid,Europe,AT,Austria,2982,1474,2692,1437
+6/1/2016,free,Europe,AT,Austria,7540,1717,0,1635
+6/1/2016,paid,Europe,BE,Belgium,5813,4144,5882,3414
+6/1/2016,free,Europe,BE,Belgium,10133,3049,0,3568
+6/1/2016,paid,Latin America,BO,Bolivia,5646,1637,5321,3155
+6/1/2016,free,Latin America,BO,Bolivia,10466,4085,0,2386
+6/1/2016,paid,Latin America,BR,Brazil,19605,12749,23300,11351
+6/1/2016,free,Latin America,BR,Brazil,42767,10243,0,9407
+6/1/2016,paid,Europe,BG,Bulgaria,4567,1403,2536,1407
+6/1/2016,free,Europe,BG,Bulgaria,6840,1112,0,1147
+6/1/2016,paid,North America,CA,Canada,7325,4086,7722,3956
+6/1/2016,free,North America,CA,Canada,15235,3055,0,3223
+6/1/2016,paid,Latin America,CL,Chile,2250,2055,3229,1361
+6/1/2016,free,Latin America,CL,Chile,7793,1164,0,1794
+6/1/2016,paid,Latin America,CO,Colombia,4158,1877,3808,2302
+6/1/2016,free,Latin America,CO,Colombia,8864,1656,0,1628
+6/1/2016,paid,Latin America,CR,Costa Rica,2170,1702,3498,1465
+6/1/2016,free,Latin America,CR,Costa Rica,6589,1313,0,1386
+6/1/2016,paid,Europe,CY,Cyprus,1687,1953,2831,1985
+6/1/2016,free,Europe,CY,Cyprus,6709,1156,0,1272
+6/1/2016,paid,Europe,CZ,Czech Republic,2555,828,1993,964
+6/1/2016,free,Europe,CZ,Czech Republic,4453,1251,0,941
+6/1/2016,paid,Europe,DK,Denmark,2299,836,2224,1008
+6/1/2016,free,Europe,DK,Denmark,6722,1458,0,1036
+6/1/2016,paid,Latin America,DO,Dominican Republic,3350,913,2468,1383
+6/1/2016,free,Latin America,DO,Dominican Republic,7646,1564,0,903
+6/1/2016,paid,Latin America,EC,Ecuador,2486,2494,4835,2045
+6/1/2016,free,Latin America,EC,Ecuador,9249,1750,0,3094
+6/1/2016,paid,Latin America,SV,El Salvador,4348,2065,4124,2950
+6/1/2016,free,Latin America,SV,El Salvador,9949,2516,0,1456
+6/1/2016,paid,Europe,EE,Estonia,2224,1298,3021,1410
+6/1/2016,free,Europe,EE,Estonia,5752,1290,0,1223
+6/1/2016,paid,Europe,FI,Finland,3817,2125,3720,1730
+6/1/2016,free,Europe,FI,Finland,7324,1262,0,1946
+6/1/2016,paid,Europe,FR,France,22971,7588,14859,7382
+6/1/2016,free,Europe,FR,France,28088,6918,0,5499
+6/1/2016,paid,Europe,DE,Germany,39488,15788,32304,13432
+6/1/2016,free,Europe,DE,Germany,62513,18113,0,21761
+6/1/2016,paid,Europe,GR,Greece,4185,2001,2861,1883
+6/1/2016,free,Europe,GR,Greece,6569,1238,0,934
+6/1/2016,paid,Latin America,GT,Guatemala,2205,1337,3732,1963
+6/1/2016,free,Latin America,GT,Guatemala,10322,2040,0,1638
+6/1/2016,paid,Latin America,HN,Honduras,4653,2776,5522,3629
+6/1/2016,free,Latin America,HN,Honduras,7882,2175,0,1971
+6/1/2016,paid,Southeast Asia,HK,Hong Kong,2307,863,1929,1040
+6/1/2016,free,Southeast Asia,HK,Hong Kong,5463,1060,0,691
+6/1/2016,paid,Europe,HU,Hungary,1081,1154,2330,1295
+6/1/2016,free,Europe,HU,Hungary,5532,947,0,1180
+6/1/2016,paid,Europe,IS,Iceland,4172,4045,7208,5756
+6/1/2016,free,Europe,IS,Iceland,23177,3128,0,2776
+6/1/2016,paid,Southeast Asia,ID,Indonesia,3674,2183,3168,2372
+6/1/2016,free,Southeast Asia,ID,Indonesia,11277,1566,0,1280
+6/1/2016,paid,Europe,IE,Ireland,3515,2133,3863,2060
+6/1/2016,free,Europe,IE,Ireland,5133,1157,0,1372
+6/1/2016,paid,Europe,IT,Italy,1994,1244,3311,1565
+6/1/2016,free,Europe,IT,Italy,7315,2004,0,1447
+6/1/2016,paid,Europe,LV,Latvia,1478,748,1485,1046
+6/1/2016,free,Europe,LV,Latvia,5646,762,0,539
+6/1/2016,paid,Europe,LI,Liechtenstein,4577,2316,3681,2078
+6/1/2016,free,Europe,LI,Liechtenstein,8151,1421,0,1705
+6/1/2016,paid,Europe,LT,Lithuania,3186,1192,2356,1237
+6/1/2016,free,Europe,LT,Lithuania,5624,1141,0,1183
+6/1/2016,paid,Europe,LU,Luxembourg,3712,861,2919,1888
+6/1/2016,free,Europe,LU,Luxembourg,5603,2025,0,1035
+6/1/2016,paid,Southeast Asia,MY,Malaysia,3289,1515,3154,1985
+6/1/2016,free,Southeast Asia,MY,Malaysia,7333,2009,0,1476
+6/1/2016,paid,Europe,MT,Malta,3252,1661,5340,2527
+6/1/2016,free,Europe,MT,Malta,8596,2820,0,1636
+6/1/2016,paid,Latin America,MX,Mexico,28851,11108,21901,12858
+6/1/2016,free,Latin America,MX,Mexico,39798,9655,0,8719
+6/1/2016,paid,Europe,MC,Monaco,1914,1368,1642,1088
+6/1/2016,free,Europe,MC,Monaco,5092,597,0,780
+6/1/2016,paid,Europe,NL,Netherlands,3932,3491,6704,4199
+6/1/2016,free,Europe,NL,Netherlands,11729,3253,0,2288
+6/1/2016,paid,Australia - New Zealand,NZ,New Zealand,9008,1904,7700,3429
+6/1/2016,free,Australia - New Zealand,NZ,New Zealand,12645,5830,0,4028
+6/1/2016,paid,Latin America,NI,Nicaragua,4804,1891,3665,2190
+6/1/2016,free,Latin America,NI,Nicaragua,7665,1632,0,1229
+6/1/2016,paid,Europe,NO,Norway,15204,14795,19942,11627
+6/1/2016,free,Europe,NO,Norway,35993,5813,0,8895
+6/1/2016,paid,Latin America,PA,Panama,4781,1852,4515,2242
+6/1/2016,free,Latin America,PA,Panama,7413,2123,0,2044
+6/1/2016,paid,Latin America,PY,Paraguay,3199,2461,4631,2697
+6/1/2016,free,Latin America,PY,Paraguay,7401,1941,0,1795
+6/1/2016,paid,Latin America,PE,Peru,1937,1318,2025,1024
+6/1/2016,free,Latin America,PE,Peru,4637,688,0,720
+6/1/2016,paid,Southeast Asia,PH,Philippines,8371,4002,8059,4247
+6/1/2016,free,Southeast Asia,PH,Philippines,15081,4326,0,3085
+6/1/2016,paid,Europe,PL,Poland,6424,3307,6817,4092
+6/1/2016,free,Europe,PL,Poland,15534,3812,0,2242
+6/1/2016,paid,Europe,PT,Portugal,6008,4704,9712,4947
+6/1/2016,free,Europe,PT,Portugal,24600,3886,0,3987
+6/1/2016,paid,Southeast Asia,SG,Singapore,8632,2682,5919,3984
+6/1/2016,free,Southeast Asia,SG,Singapore,14400,3433,0,2317
+6/1/2016,paid,Europe,SK,Slovakia,3584,697,1712,1149
+6/1/2016,free,Europe,SK,Slovakia,6976,1032,0,475
+6/1/2016,paid,Europe,ES,Spain,16368,2943,11213,6826
+6/1/2016,free,Europe,ES,Spain,30822,6813,0,3641
+6/1/2016,paid,Europe,SE,Sweden,28198,10767,14779,7369
+6/1/2016,free,Europe,SE,Sweden,31172,5830,0,8323
+6/1/2016,paid,Europe,CH,Switzerland,12917,6188,14109,8724
+6/1/2016,free,Europe,CH,Switzerland,36754,8707,0,5384
+6/1/2016,paid,Southeast Asia,TW,Taiwan,9822,5401,7427,4466
+6/1/2016,free,Southeast Asia,TW,Taiwan,22792,1882,0,3318
+6/1/2016,paid,Europe,TR,Turkey,15053,7158,16000,8673
+6/1/2016,free,Europe,TR,Turkey,39684,8729,0,6965
+6/1/2016,paid,Europe,GB,United Kingdom,30823,16376,39293,23020
+6/1/2016,free,Europe,GB,United Kingdom,64825,21514,0,16923
+6/1/2016,paid,North America,US,United States,132453,103634,205418,112878
+6/1/2016,free,North America,US,United States,404333,103100,0,102123
+6/1/2016,paid,Latin America,UY,Uruguay,4062,1839,3445,2534
+6/1/2016,free,Latin America,UY,Uruguay,5120,1973,0,1244
+7/1/2016,paid,Europe,AD,Andorra,1182,842,2024,1078
+7/1/2016,free,Europe,AD,Andorra,3633,996,0,755
+7/1/2016,paid,Latin America,AR,Argentina,2277,1288,3248,1833
+7/1/2016,free,Latin America,AR,Argentina,7863,1769,0,1102
+7/1/2016,paid,Australia - New Zealand,AU,Australia,10978,4847,13662,7319
+7/1/2016,free,Australia - New Zealand,AU,Australia,29167,10623,0,8042
+7/1/2016,paid,Europe,AT,Austria,3134,1430,2712,1437
+7/1/2016,free,Europe,AT,Austria,7202,1700,0,1517
+7/1/2016,paid,Europe,BE,Belgium,5888,4244,5687,3547
+7/1/2016,free,Europe,BE,Belgium,10654,3165,0,3552
+7/1/2016,paid,Latin America,BO,Bolivia,6016,1815,5443,3030
+7/1/2016,free,Latin America,BO,Bolivia,11084,4436,0,2514
+7/1/2016,paid,Latin America,BR,Brazil,21102,12055,25601,11602
+7/1/2016,free,Latin America,BR,Brazil,41881,10331,0,10358
+7/1/2016,paid,Europe,BG,Bulgaria,4444,1310,2566,1326
+7/1/2016,free,Europe,BG,Bulgaria,6419,1136,0,1211
+7/1/2016,paid,North America,CA,Canada,7308,4318,8252,4203
+7/1/2016,free,North America,CA,Canada,16070,3035,0,3231
+7/1/2016,paid,Latin America,CL,Chile,2285,2167,3285,1502
+7/1/2016,free,Latin America,CL,Chile,8336,1170,0,1947
+7/1/2016,paid,Latin America,CO,Colombia,4111,1950,3655,2447
+7/1/2016,free,Latin America,CO,Colombia,8885,1762,0,1703
+7/1/2016,paid,Latin America,CR,Costa Rica,2353,1821,3332,1592
+7/1/2016,free,Latin America,CR,Costa Rica,6513,1336,0,1403
+7/1/2016,paid,Europe,CY,Cyprus,1647,1863,3023,1927
+7/1/2016,free,Europe,CY,Cyprus,6211,1173,0,1267
+7/1/2016,paid,Europe,CZ,Czech Republic,2747,810,1923,1014
+7/1/2016,free,Europe,CZ,Czech Republic,4204,1282,0,971
+7/1/2016,paid,Europe,DK,Denmark,2184,843,2162,927
+7/1/2016,free,Europe,DK,Denmark,6673,1455,0,1036
+7/1/2016,paid,Latin America,DO,Dominican Republic,3501,954,2450,1346
+7/1/2016,free,Latin America,DO,Dominican Republic,7795,1700,0,931
+7/1/2016,paid,Latin America,EC,Ecuador,2355,2455,5021,2132
+7/1/2016,free,Latin America,EC,Ecuador,9644,1747,0,3141
+7/1/2016,paid,Latin America,SV,El Salvador,4360,2100,4158,3112
+7/1/2016,free,Latin America,SV,El Salvador,10431,2756,0,1575
+7/1/2016,paid,Europe,EE,Estonia,2177,1292,2829,1322
+7/1/2016,free,Europe,EE,Estonia,5774,1264,0,1186
+7/1/2016,paid,Europe,FI,Finland,3715,2248,3864,1590
+7/1/2016,free,Europe,FI,Finland,7348,1228,0,1890
+7/1/2016,paid,Europe,FR,France,23796,7539,15002,7550
+7/1/2016,free,Europe,FR,France,29994,6902,0,5734
+7/1/2016,paid,Europe,DE,Germany,37036,16227,31906,13035
+7/1/2016,free,Europe,DE,Germany,57868,19006,0,22707
+7/1/2016,paid,Europe,GR,Greece,4418,2031,2948,1879
+7/1/2016,free,Europe,GR,Greece,6141,1203,0,961
+7/1/2016,paid,Latin America,GT,Guatemala,2277,1365,3593,1948
+7/1/2016,free,Latin America,GT,Guatemala,11029,2222,0,1720
+7/1/2016,paid,Latin America,HN,Honduras,5069,3101,5618,3598
+7/1/2016,free,Latin America,HN,Honduras,8433,2139,0,1971
+7/1/2016,paid,Southeast Asia,HK,Hong Kong,2411,879,2086,1091
+7/1/2016,free,Southeast Asia,HK,Hong Kong,5516,1100,0,731
+7/1/2016,paid,Europe,HU,Hungary,1145,1109,2239,1385
+7/1/2016,free,Europe,HU,Hungary,5379,948,0,1201
+7/1/2016,paid,Europe,IS,Iceland,4359,4134,6987,5680
+7/1/2016,free,Europe,IS,Iceland,23448,2928,0,2791
+7/1/2016,paid,Southeast Asia,ID,Indonesia,3697,2292,3499,2482
+7/1/2016,free,Southeast Asia,ID,Indonesia,11882,1540,0,1308
+7/1/2016,paid,Europe,IE,Ireland,3596,1977,3820,2027
+7/1/2016,free,Europe,IE,Ireland,5194,1096,0,1310
+7/1/2016,paid,Europe,IT,Italy,1855,1204,3104,1565
+7/1/2016,free,Europe,IT,Italy,6797,2099,0,1460
+7/1/2016,paid,Europe,LV,Latvia,1435,790,1506,1049
+7/1/2016,free,Europe,LV,Latvia,5496,815,0,563
+7/1/2016,paid,Europe,LI,Liechtenstein,4466,2298,3423,2130
+7/1/2016,free,Europe,LI,Liechtenstein,8703,1472,0,1767
+7/1/2016,paid,Europe,LT,Lithuania,3130,1224,2193,1189
+7/1/2016,free,Europe,LT,Lithuania,5355,1106,0,1230
+7/1/2016,paid,Europe,LU,Luxembourg,3786,883,2940,1984
+7/1/2016,free,Europe,LU,Luxembourg,5584,2175,0,1028
+7/1/2016,paid,Southeast Asia,MY,Malaysia,3403,1632,3337,2039
+7/1/2016,free,Southeast Asia,MY,Malaysia,7974,2035,0,1633
+7/1/2016,paid,Europe,MT,Malta,3370,1758,5063,2657
+7/1/2016,free,Europe,MT,Malta,8325,2825,0,1592
+7/1/2016,paid,Latin America,MX,Mexico,30024,11500,23339,13852
+7/1/2016,free,Latin America,MX,Mexico,39624,10517,0,8834
+7/1/2016,paid,Europe,MC,Monaco,1881,1462,1692,1126
+7/1/2016,free,Europe,MC,Monaco,5110,571,0,839
+7/1/2016,paid,Europe,NL,Netherlands,3996,3582,6361,4197
+7/1/2016,free,Europe,NL,Netherlands,11710,3193,0,2301
+7/1/2016,paid,Australia - New Zealand,NZ,New Zealand,9124,2029,7269,3369
+7/1/2016,free,Australia - New Zealand,NZ,New Zealand,12565,6232,0,4155
+7/1/2016,paid,Latin America,NI,Nicaragua,5242,2008,4049,2137
+7/1/2016,free,Latin America,NI,Nicaragua,8162,1739,0,1233
+7/1/2016,paid,Europe,NO,Norway,15209,14893,19286,10697
+7/1/2016,free,Europe,NO,Norway,35578,5704,0,8778
+7/1/2016,paid,Latin America,PA,Panama,4753,1994,4350,2256
+7/1/2016,free,Latin America,PA,Panama,7154,2286,0,2243
+7/1/2016,paid,Latin America,PY,Paraguay,3059,2751,4679,2913
+7/1/2016,free,Latin America,PY,Paraguay,7395,1968,0,1811
+7/1/2016,paid,Latin America,PE,Peru,1948,1324,2187,1087
+7/1/2016,free,Latin America,PE,Peru,4889,692,0,751
+7/1/2016,paid,Southeast Asia,PH,Philippines,8963,4035,8362,4135
+7/1/2016,free,Southeast Asia,PH,Philippines,15623,4733,0,3060
+7/1/2016,paid,Europe,PL,Poland,6101,3388,6776,3760
+7/1/2016,free,Europe,PL,Poland,15051,3827,0,2139
+7/1/2016,paid,Europe,PT,Portugal,5782,4433,9925,5132
+7/1/2016,free,Europe,PT,Portugal,24871,3839,0,4025
+7/1/2016,paid,Southeast Asia,SG,Singapore,8826,2811,5398,3819
+7/1/2016,free,Southeast Asia,SG,Singapore,14476,3347,0,2252
+7/1/2016,paid,Europe,SK,Slovakia,3411,645,1827,1104
+7/1/2016,free,Europe,SK,Slovakia,6721,970,0,485
+7/1/2016,paid,Europe,ES,Spain,16392,3155,11384,7268
+7/1/2016,free,Europe,ES,Spain,31301,7033,0,3783
+7/1/2016,paid,Europe,SE,Sweden,28522,10905,14886,7422
+7/1/2016,free,Europe,SE,Sweden,29626,5756,0,8422
+7/1/2016,paid,Europe,CH,Switzerland,12857,6238,14757,8967
+7/1/2016,free,Europe,CH,Switzerland,35579,8226,0,5564
+7/1/2016,paid,Southeast Asia,TW,Taiwan,10631,5707,7627,4587
+7/1/2016,free,Southeast Asia,TW,Taiwan,22293,1981,0,3284
+7/1/2016,paid,Europe,TR,Turkey,15327,6612,15489,8665
+7/1/2016,free,Europe,TR,Turkey,40005,9500,0,7290
+7/1/2016,paid,Europe,GB,United Kingdom,32059,16424,37420,22384
+7/1/2016,free,Europe,GB,United Kingdom,64555,23368,0,18081
+7/1/2016,paid,North America,US,United States,135078,110327,210733,116516
+7/1/2016,free,North America,US,United States,422188,102422,0,105111
+7/1/2016,paid,Latin America,UY,Uruguay,4186,1936,3323,2517
+7/1/2016,free,Latin America,UY,Uruguay,4786,1849,0,1325

@@ -1,0 +1,129 @@
+<div class='legend'>
+	<span class='legend-item'><i class="fa fa-flash growth"></i>: Will sort by growth</span>
+	<span class='legend-item'>MAU: Monthly Active Users</span>
+	<span class='legend-item'>DAU: Daily Active Users</span>
+	<span class='legend-item' style="border:none;">TCH: Total Content Hours</span>
+</div>
+<table class="table table-condensed first-layer" style="margin-bottom: -9px;">
+	<thead>
+		<tr>
+			<th class="col-xs-1"></th>
+			<th class="col-xs-1"></th>
+			<th class="col-xs-1 left-aligned"></th>
+			<th class="col-xs-2 text-center helpable left-aligned" title="Monthly Active Users" >MAU</th>
+			<th class="col-xs-2 text-center helpable left-aligned" title="Daily Active Users" >DAU</th>
+			<th class="col-xs-2 text-center helpable left-aligned" title="Total Content Hours" >TCH</th>
+		</tr>
+	</thead>
+</table>
+<table class="table table-condensed" style="margin-bottom:0px;">
+	<thead>
+		<tr>
+			<th class="col-xs-1">
+				Country
+				{{#if (eq sortBy 'name')}}
+					<i class="fa fa-sort-{{sortDir}} clickable" onclick={{action 'sort' 'name'}}></i>
+				{{else}}
+					<i class="fa fa-sort clickable" onclick={{action 'sort' 'name'}}></i>
+				{{/if}}
+			</th>
+			<th class="col-xs-1">
+				Region
+				{{#if (eq sortBy 'region')}}
+					<i class="fa fa-sort-{{sortDir}} clickable" onclick={{action 'sort' 'region'}}></i>
+				{{else}}
+					<i class="fa fa-sort clickable" onclick={{action 'sort' 'region'}}></i>
+				{{/if}}
+			</th>
+			<th class="col-xs-1 left-aligned">
+				Subscribers
+				{{#if (eq sortBy subscribersSortProp)}}
+					<i class="fa fa-sort-{{sortDir}} clickable" onclick={{action 'sort' subscribersSortProp}}></i>
+				{{else}}
+					<i class="fa fa-sort clickable" onclick={{action 'sort' subscribersSortProp}}></i>
+				{{/if}}
+				<i class="fa fa-flash clickable {{subscribersSort}}" title="Sort by growth" onclick={{action 'toggleSort' 'subscribers'}}></i>
+			</th>
+			<th class="col-xs-1 left-aligned">
+				Free
+				{{#if (eq sortBy mauFreeSortProp)}}
+					<i class="fa fa-sort-{{sortDir}} clickable" onclick={{action 'sort' mauFreeSortProp}}></i>
+				{{else}}
+					<i class="fa fa-sort clickable" onclick={{action 'sort' mauFreeSortProp}}></i>
+				{{/if}}
+				<i class="fa fa-flash clickable {{mauFreeSort}}" title="Sort by growth" onclick={{action 'toggleSort' 'mauFree'}}></i>
+			</th>
+			<th class="col-xs-1 left-aligned">
+				Paid
+				{{#if (eq sortBy mauPaidSortProp)}}
+					<i class="fa fa-sort-{{sortDir}} clickable" onclick={{action 'sort' mauPaidSortProp}}></i>
+				{{else}}
+					<i class="fa fa-sort clickable" onclick={{action 'sort' mauPaidSortProp}}></i>
+				{{/if}}
+				<i class="fa fa-flash clickable {{mauPaidSort}}" title="Sort by growth" onclick={{action 'toggleSort' 'mauPaid'}}></i>
+			</th>
+			<th class="col-xs-1 left-aligned">
+				Free
+				{{#if (eq sortBy dauFreeSortProp)}}
+					<i class="fa fa-sort-{{sortDir}} clickable" onclick={{action 'sort' dauFreeSortProp}}></i>
+				{{else}}
+					<i class="fa fa-sort clickable" onclick={{action 'sort' dauFreeSortProp}}></i>
+				{{/if}}
+				<i class="fa fa-flash clickable {{dauFreeSort}}" title="Sort by growth" onclick={{action 'toggleSort' 'dauFree'}}></i>
+			</th>
+			<th class="col-xs-1 left-aligned">
+				Paid
+				{{#if (eq sortBy dauPaidSortProp)}}
+					<i class="fa fa-sort-{{sortDir}} clickable" onclick={{action 'sort' dauPaidSortProp}}></i>
+				{{else}}
+					<i class="fa fa-sort clickable" onclick={{action 'sort' dauPaidSortProp}}></i>
+				{{/if}}
+				<i class="fa fa-flash clickable {{dauPaidSort}}" title="Sort by growth" onclick={{action 'toggleSort' 'dauPaid'}}></i>
+			</th>
+			<th class="col-xs-1 left-aligned">
+				Free
+				{{#if (eq sortBy hoursFreeSortProp)}}
+					<i class="fa fa-sort-{{sortDir}} clickable" onclick={{action 'sort' hoursFreeSortProp}}></i>
+				{{else}}
+					<i class="fa fa-sort clickable" onclick={{action 'sort' hoursFreeSortProp}}></i>
+				{{/if}}
+				<i class="fa fa-flash clickable {{hoursFreeSort}}" title="Sort by growth" onclick={{action 'toggleSort' 'hoursFree'}}></i>
+			</th>
+			<th class="col-xs-1 left-aligned">
+				Paid
+				{{#if (eq sortBy hoursPaidSortProp)}}
+					<i class="fa fa-sort-{{sortDir}} clickable" onclick={{action 'sort' hoursPaidSortProp}}></i>
+				{{else}}
+					<i class="fa fa-sort clickable" onclick={{action 'sort' hoursPaidSortProp}}></i>
+				{{/if}}
+				<i class="fa fa-flash clickable {{hoursPaidSort}}" title="Sort by growth" onclick={{action 'toggleSort' 'hoursPaid'}}></i>
+			</th>
+		</tr>
+	</thead>
+</table>
+{{#liquid-bind page}}
+	<table class="table table-condensed">
+		<tbody>
+			{{yield rows}}
+		</tbody>
+	</table>
+{{/liquid-bind}}
+<nav class="text-center" style="margin-top:-30px; font-size:10px;">
+	<ul class="pagination">
+		<li {{action 'decrementPage'}} class={{if (eq pages.firstObject 1) 'disabled'}}>
+			<a href aria-label="Previous">
+				<span aria-hidden="true">&laquo;</span>
+			</a>
+		</li>
+		{{#each pages as |p|}}
+			<li class="{{if (eq page p) "active"}}" {{action 'setPage' p}}>
+				<a href>{{p}}</a>
+			</li>
+		{{/each}}
+		<li {{action 'incrementPage'}} class={{if (eq pages.lastObject totalPages) 'disabled'}}>
+			<a href aria-label="Next">
+				<span aria-hidden="true">&raquo;</span>
+			</a>
+		</li>
+	</ul>
+</nav>

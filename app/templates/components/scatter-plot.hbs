@@ -1,0 +1,28 @@
+<g transform="translate({{margin.left}},{{margin.top}})">
+	<g class="axis axis--x" transform="translate(0,{{chartH}})"></g>
+	<g class="axis axis--y">
+		<text y="-10" x="2" dy=".71em" fill="black" font-weight="bold">Growth</text>
+	</g>
+	<g>
+		{{#unless (eq plottableData.length 1)}}
+			<line x1={{average.x}} y1="0" x2={{average.x}} y2={{chartH}} class="average-line"></line>
+			<line x1="0" y1={{average.y}} x2={{chartW}} y2={{average.y}} class="average-line"></line>
+		{{/unless}}
+	</g>
+	<g>
+		{{#each plottableData as |d|}}
+			{{#if d.model.highlighted}}
+				<line x1={{d.x}} y1={{d.y}} x2={{d.x}} y2={{chartH}} stroke="#cccccc" stroke-width="1"></line>
+				<line x1="0" y1={{d.y}} x2={{d.x}} y2={{d.y}} stroke="#cccccc" stroke-width="1"></line>
+			{{/if}}
+			<circle cx={{d.x}} cy={{d.y}} r={{if d.model.highlighted 6 3}} fill={{d.model.color}}></circle>
+		{{/each}}
+	</g>
+	<g class="voronoi">
+		{{#each polygons as |cell|}}
+			{{voronoi-cell cell=cell
+				onhighlight=onhighlight
+				ondehighlight=ondehighlight}}
+		{{/each}}
+	</g>
+</g>

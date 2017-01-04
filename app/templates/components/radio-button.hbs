@@ -1,0 +1,6 @@
+{{#each options as |option|}}
+	<label class="btn btn-primary {{if (eq option selectedOption) 'active'}}" {{action onselect option on='click'}}>
+		<input type="radio" checked={{eq option selectedOption}}>
+		{{yield option}}
+	</label>
+{{/each}}

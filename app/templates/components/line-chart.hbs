@@ -1,0 +1,23 @@
+<g transform="translate({{margin.left}},{{margin.top}})">
+	<g class="axis axis--x" transform="translate(0,{{chartH}})"></g>
+	<g class="axis axis--y"></g>
+	<g>
+		{{#each series as |s|}}
+			<path class="line" 
+				d={{s.d}} 
+				stroke={{s.stroke}} 
+				stroke-width="{{if s.model.highlighted 4 1}}px">
+			</path>
+		{{/each}}
+	</g>
+	{{#unless (eq series.length 1)}}
+		<path class="average-line" d={{average}}></path>
+	{{/unless}}
+	<g class="voronoi">
+		{{#each polygons as |cell|}}
+			{{voronoi-cell cell=cell
+				onhighlight=onhighlight
+				ondehighlight=ondehighlight}}
+		{{/each}}
+	</g>
+</g>

@@ -1,0 +1,10 @@
+<g>
+	{{#each shapes as |shape|}}
+		{{country-shape d=shape.path 
+			country=shape.props
+			onhighlight=onhighlight
+			ondehighlight=ondehighlight
+			onselect=onselect
+			ondeselect=ondeselect}}
+	{{/each}}
+</g>

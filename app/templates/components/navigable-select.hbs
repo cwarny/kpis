@@ -1,0 +1,9 @@
+{{#power-select options=transformedOptions searchEnabled=false selected=selected placeholder="Pick a country" closeOnSelect=false onchange=(action "onchange") optionsComponent='animated-options' as |levelOrOption|}}
+	{{#if levelOrOption.parentLevel}}
+		<strong>&lt; Back</strong>
+	{{else if levelOrOption.levelName}}
+		<strong>{{levelOrOption.levelName}} &gt;</strong>
+	{{else}}
+		{{levelOrOption.name}}
+	{{/if}}
+{{/power-select}}

@@ -1,0 +1,9 @@
+<th class="col-xs-1">{{country.name}}</th>
+<td class="col-xs-1">{{country.region}}</td>
+<td class="col-xs-1 left-aligned">{{integer-format country.subscribers.lastObject.value}} ({{percent-format country.subscribersGrowth}})</td>
+<td class="col-xs-1 left-aligned">{{integer-format country.lastMau.free}} ({{percent-format country.mauGrowth.free}})</td>
+<td class="col-xs-1 left-aligned">{{integer-format country.mau.paid.lastObject.value}} ({{percent-format country.mauGrowth.paid}})</td>
+<td class="col-xs-1 left-aligned">{{integer-format country.dau.free.lastObject.value}} ({{percent-format country.dauGrowth.free}})</td>
+<td class="col-xs-1 left-aligned">{{integer-format country.dau.paid.lastObject.value}} ({{percent-format country.dauGrowth.paid}})</td>
+<td class="col-xs-1 left-aligned">{{integer-format country.hours.free.lastObject.value}} ({{percent-format country.hoursGrowth.free}})</td>
+<td class="col-xs-1 left-aligned">{{integer-format country.hours.paid.lastObject.value}} ({{percent-format country.hoursGrowth.paid}})</td>
