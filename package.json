@@ -43,5 +43,19 @@
   "engines": {
     "node": ">= 0.12.0"
   },
-  "private": true
+  "private": true,
+  "_aerobatic": {
+    "router": [
+      {
+        "module": "basic-auth",
+        "options": {
+          "username": "$BASIC_AUTH_USERNAME",
+          "password": "$BASIC_AUTH_PASSWORD"
+        }
+      },
+      {
+        "module": "webpage"
+      }
+    ]
+  }
 }
